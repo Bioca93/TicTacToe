@@ -1,0 +1,64 @@
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.runtimeconfig.dev.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\refint\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Exercicios das Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\ref\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.runtimeconfig.dev.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\refint\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\Arrays\TicTacToeFINAL\obj\Debug\net5.0\ref\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.runtimeconfig.dev.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\refint\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\ref\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.exe
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.deps.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.runtimeconfig.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.runtimeconfig.dev.json
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\bin\Debug\net5.0\TicTacToeFINAL.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.csproj.AssemblyReference.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.AssemblyInfoInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.AssemblyInfo.cs
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.csproj.CoreCompileInputs.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\refint\TicTacToeFINAL.dll
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.pdb
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\TicTacToeFINAL.genruntimeconfig.cache
+C:\Users\bea_j\OneDrive\Ambiente de Trabalho\Web Developer\Assembly\Exercícios_Assembly\Fichas de Código\CODE I\Arrays\TicTacToeFINAL\obj\Debug\net5.0\ref\TicTacToeFINAL.dll
